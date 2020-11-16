@@ -1,0 +1,93 @@
+# sakumaayaka.gihub.io
+
+body {
+  display: #222222;;
+  margin: 0px;
+}
+
+.header-logo {
+  background-color: rgba(82, 75, 75, 0);
+  height: 100px;
+  width: 100%;
+  left: 0px;
+  font-size: 35px;
+  color: #000000;
+}
+
+.top {
+  background-size: cover;
+}
+
+.top img {
+  height: 250px;
+  width: 250px;
+  margin: 0px 20px;
+  border-radius: 5px;
+}
+
+.container {
+  width: 70%;
+  margin:0 auto;
+}
+
+.top h1 {
+  float: right;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.top p {
+  font-size: 20px;
+  float: right;
+  margin-top: 20px;
+  margin-left: 40%;
+}
+
+.favorite {
+  background-color: #f7f7f7;
+  height: 1650px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.favorite h2 {
+  font-size: 30px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 5px;
+}
+
+.content {
+  height: 320px;
+  padding-bottom: 30px;
+}
+
+.content h3 {
+  font-size: 25px;
+  border-bottom: 2px solid #eee;
+}
+
+.detail {
+  display: inline-block;
+}
+
+.detail p {
+  width: 50vw;
+  font-size: 25px;
+  float: right;
+}
+
+.detail img {
+  height: 250px;
+  width: 250px;
+  margin: 0px 20px;
+  border-radius: 5px;
+}
+
+footer {
+  color: #000000;
+  background-color: rgba(82, 75, 75, 0);
+}
