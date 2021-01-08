@@ -1,9 +1,16 @@
 # sakumaayaka.gihub.io
+@media screen and (max-width:480px) {
+ 
+	/*　画面サイズが480px以下の場合ここの記述が適用される　*/
+ 
+}
 
 body {
   display: #222222;;
   margin: 0px;
 }
+
+
 
 .header-logo {
   background-color: rgba(82, 75, 75, 0);
@@ -16,9 +23,6 @@ body {
 
 .top {
   background-size: cover;
-}
-
-.top img {
   height: 250px;
   width: 250px;
   margin: 0px 20px;
